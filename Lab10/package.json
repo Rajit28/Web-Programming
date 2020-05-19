@@ -1,0 +1,19 @@
+{
+  "name": "10rewrite",
+  "version": "2.0.0",
+  "description": "New Lab10 error checking ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Rajit Gohel 10455405",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "express-session": "^1.17.1"
+  }
+}

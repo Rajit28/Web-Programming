@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "Lab 4 MongoDb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rajit Gohel 10455405",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  }
+}
