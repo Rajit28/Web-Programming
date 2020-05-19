@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    font-size: 14pt;
+  }
+  
+  body {
+      background: yellowgreen;
+      font-family: Georgia, "Times New Roman", Times, serif;
+    }
+     main {
+      max-width: 75%;
+      margin: auto;
+    }
+  
+  h1
+   {
+    color: rgb(16, 50, 240);
+    margin-bottom: 5px;
+  }
+  h1 {
+      font-size: 2rem;
+      text-shadow: 2px 2px 5px red;
+    }
+
+  
+  .form-group {
+    color: orangered;
+  }
+
+  .button {
+    border-radius: 50%;
+    background-color: yellow;
+  }
+  .button:hover {
+    background-color: yellow; 
+    color: green;
+  }
+  .label1 {
+    font-size: 30px;
+    color: honeydew;
+
+  }

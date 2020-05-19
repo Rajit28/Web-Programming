@@ -1,0 +1,17 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajit Gohel 10455405",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
