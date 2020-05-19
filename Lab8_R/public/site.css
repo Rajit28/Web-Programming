@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 14pt;
+}
+
+body {
+    background: #f8f7f7;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+   main {
+    max-width: 75%;
+    margin: auto;
+  }
+
+h1
+ {
+  color: rgb(16, 50, 240);
+  margin-bottom: 5px;
+}
+h1 {
+    font-size: 2rem;
+  }
+
+  .success{ 
+    color:#28a745;  
+  }
+  
+.failure{
+    color:#dc3545; 
+}
+a{
+  color: #ddcc55;
+}
+
+
+.button {
+  background-color: #4CAF50;
+  
+  color: white;
+  
+  
+  
+  display: inline-block;
+  
+  cursor: pointer;
+}
