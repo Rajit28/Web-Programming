@@ -1,0 +1,18 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "Lab 8",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajit Gohel 10455405",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.1",
+    "handlebars": "^4.7.4",
+    "mongodb": "^3.5.5"
+  }
+}
